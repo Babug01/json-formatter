@@ -1,5 +1,7 @@
 # JSON Formatter & Validator
 
+**Live demo:** https://babug01.github.io/json-formatter/
+
 A fast, focused JSON formatter, minifier, and validator — a real code editor instead of a plain
 textarea, a collapsible tree view for exploring large payloads, and error messages that point at
 the exact line and column, not just "unexpected token". Runs entirely in the browser; nothing you
