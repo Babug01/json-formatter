@@ -1,6 +1,6 @@
 # JSON Formatter & Validator
 
-**Live demo:** https://babug01.github.io/json-formatter/
+**Live demo:** https://json-formatter-beta-pearl.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/json-formatter/)
 
 A fast, focused JSON formatter, minifier, and validator — a real code editor instead of a plain
 textarea, a collapsible tree view for exploring large payloads, and error messages that point at
